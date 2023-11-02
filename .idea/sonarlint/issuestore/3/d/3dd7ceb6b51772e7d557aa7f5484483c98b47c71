@@ -1,7 +1,0 @@
-
-k
-java:S3014	"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ8«´–—ÿ0
-d
-java:S5738"GRemove this call to a deprecated class, it has been marked for removal.(µˆ§ò8½´–—ÿ0
-e
-java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(µˆ§ò8½´–—ÿ0

@@ -1,5 +1,0 @@
-
-h
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
-<
-java:S3864"!Remove this use of "Stream.peek".(‡ïª»ùÿÿÿÿ

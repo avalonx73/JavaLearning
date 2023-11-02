@@ -1,10 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ãÔ¤
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¡»İ¡şÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(–ÑÚ§ûÿÿÿÿ
-C
-java:S1172"-Remove this unused method parameter "object".( íÏº
-S	java:S106"9Replace this use of System.out or System.err by a logger.(„°Íùÿÿÿÿ
-N	java:S106""9Replace this use of System.out or System.err by a logger.(ÆâŒá
-r
-java:S1192"WDefine a constant instead of duplicating this literal "SubClass.constructor: " 3 times.(¡»İ¡şÿÿÿÿ

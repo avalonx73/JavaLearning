@@ -1,41 +1,0 @@
-
-z
-java:S11499"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(³ò€°ýÿÿÿÿ
-N	java:S106	"9Replace this use of System.out or System.err by a logger.(›²Ëî
-F
-java:S1481"0Remove this unused "hiddenFiles" local variable.(³æ¼›
-L
-java:S1481"1Remove this unused "hiddenFiles2" local variable.(Óÿ÷ùÿÿÿÿ
-;
-java:S3457"%String contains no format specifiers.(Öß·¢
-A
-java:S1481"+Remove this unused "format" local variable.(Öß·¢
-S	java:S106"9Replace this use of System.out or System.err by a logger.(½¸à·ýÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ã…Ð¬þÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(‡ü‰¡ûÿÿÿÿ
-S	java:S106""9Replace this use of System.out or System.err by a logger.(…£âÑûÿÿÿÿ
->
-java:S1481%"(Remove this unused "ss1" local variable.(ººûè
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
-S	java:S106)"9Replace this use of System.out or System.err by a logger.(«Ž›Ñþÿÿÿÿ
-N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÙÚ€õ
-S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
-N	java:S1060"9Replace this use of System.out or System.err by a logger.(ˆÆñ“
-O
-java:S21210"9Remove this "compareTo" call; it has predictable results.(ˆÆñ“
-M	java:S1062"9Replace this use of System.out or System.err by a logger.(êºê
-N	java:S1064"9Replace this use of System.out or System.err by a logger.(þÔÜ°
-N	java:S1067"9Replace this use of System.out or System.err by a logger.(ƒŽ³È
-S	java:S106;"9Replace this use of System.out or System.err by a logger.(‹¥šÙüÿÿÿÿ
-S	java:S106="9Replace this use of System.out or System.err by a logger.(­ƒ‘Êýÿÿÿÿ
-M	java:S106?"9Replace this use of System.out or System.err by a logger.(†ÁÎ
-S	java:S106E"9Replace this use of System.out or System.err by a logger.(ëÇÜÅúÿÿÿÿ
-V	java:S125B"<This block of commented-out lines of code should be removed.(©ã¥þÿÿÿÿ
-N	java:S106H"9Replace this use of System.out or System.err by a logger.(ï½ÉÄ
-S	java:S106L"9Replace this use of System.out or System.err by a logger.(ÛÍØ¾úÿÿÿÿ
-S	java:S106N"9Replace this use of System.out or System.err by a logger.(ÊÜ¹™ÿÿÿÿÿ
-N	java:S106P"9Replace this use of System.out or System.err by a logger.(Ð½¢‰
-N	java:S106S"9Replace this use of System.out or System.err by a logger.(ñÎ¡®
-U	java:S106V"9Replace this use of System.out or System.err by a logger.(íúŒÈ8—Û¾¾Ã0
->
-java:S1604"(Make this anonymous inner class a lambda(³æ¼›

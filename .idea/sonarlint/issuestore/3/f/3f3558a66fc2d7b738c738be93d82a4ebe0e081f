@@ -1,8 +1,0 @@
-
-Œ
-java:S1130	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
-C
-java:S1481"&Remove this unused "s" local variable.(²óŸÇ8¼Óã À0
-S	java:S106"9Replace this use of System.out or System.err by a logger.(èÙÆ·ýÿÿÿÿ
-y
-java:S3655"\Call "optionalString.isPresent()" or "!optionalString.isEmpty()" before accessing the value.(²óŸÇ8ÁÓã À0
