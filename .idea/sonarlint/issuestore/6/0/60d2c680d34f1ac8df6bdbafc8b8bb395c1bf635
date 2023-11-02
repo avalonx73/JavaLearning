@@ -1,0 +1,9 @@
+
+8
+java:S3626
+"Remove this redundant jump.(ûÁÝ…8„åž¸·0
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ãÊ¶“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÊ¶“ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘†°ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±äËÛ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”û¯Ž8è²—¸·0

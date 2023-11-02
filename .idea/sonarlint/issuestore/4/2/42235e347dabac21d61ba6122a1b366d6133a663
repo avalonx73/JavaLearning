@@ -1,0 +1,11 @@
+
+c
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ÚËî8éÈšÿ0
+@
+java:S2119	"Save and re-use this "Random".( ğÃ‚ûÿÿÿÿ8•ÑÇšÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öâİœ8•ÑÇšÿ0
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ûºöÿÿÿÿÿ8•ÑÇšÿ0
+J	java:S108")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8•ÑÇšÿ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(®Ê«8¼°Éšÿ0
+X	java:S125"<This block of commented-out lines of code should be removed.(—Ø÷ù8–ÑÇšÿ0

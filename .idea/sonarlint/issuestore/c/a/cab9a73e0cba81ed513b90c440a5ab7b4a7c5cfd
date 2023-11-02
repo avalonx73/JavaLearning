@@ -1,0 +1,44 @@
+
+=
+java:S1481"'Remove this unused "i1" local variable.(›â¿™
+B
+java:S1481"'Remove this unused "i2" local variable.(¿‡êØúÿÿÿÿ
+H
+java:S1481"-Remove this unused "collect1" local variable.(ƒÕøûùÿÿÿÿ
+7
+java:S3864*"!Remove this use of "Stream.peek".(½×
+7
+java:S3864("!Remove this use of "Stream.peek".(ßˆ±ö
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+Y
+java:S1612)">Replace this lambda with method reference 'Integer::toString'.(“ªÓ×øÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(½×
+Z
+java:S1858*"D"e" is already a string, there's no need to call "toString()" on it.(½×
+G
+java:S1481&",Remove this unused "collect" local variable.(ú»Äëúÿÿÿÿ
+G
+java:S1481/"1Remove this unused "myPredicate2" local variable.(›Ï’
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ÇÑ¾“
+=
+java:S1481="'Remove this unused "r1" local variable.(ÇÑ¾“
+l
+java:S4276?"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¨Á”­
+@
+java:S1481@"*Remove this unused "apply" local variable.(ä›ˆõ
+h
+java:S4276B"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(·ÛÜ±
+D
+java:S1481F")Remove this unused "test" local variable.( Û›¡ùÿÿÿÿ
+[
+java:S1612L"@Replace this lambda with method reference 'System.out::println'.(’ñİ©ÿÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(’ñİ©ÿÿÿÿÿ
+i
+java:S1602Y"SRemove useless curly braces around statement and then remove useless return keyword(áüá
+R
+java:S1481Y"<Remove this unused "integerPrivilegedAction" local variable.(áüá
+L
+java:S1481]"6Remove this unused "intBinaryOperator" local variable.(û®­ø
+C
+java:S16043"(Make this anonymous inner class a lambda(Í‚ÅÌûÿÿÿÿ

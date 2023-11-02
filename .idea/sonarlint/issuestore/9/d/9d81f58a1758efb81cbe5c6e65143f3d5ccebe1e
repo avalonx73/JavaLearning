@@ -1,0 +1,29 @@
+
+s
+java:S3008"XRename this field "STATIC_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó»Óûÿÿÿÿ
+G
+java:S1172",Remove this unused method parameter "param".(…‡èçıÿÿÿÿ
+Q
+java:S1481"6Remove this unused "staticNestedClass" local variable.(¦¶¶¶øÿÿÿÿ
+D
+java:S1481"/Remove this unused "innerClass" local variable.(·˜Ó	
+Q
+java:S1481"6Remove this unused "staticNestedClass" local variable.(¦¶¶¶øÿÿÿÿ
+t
+java:S1171("YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+P	java:S125%"<This block of commented-out lines of code should be removed.(«ìç
+
+U
+java:S1118.":Add a private constructor to hide the implicit public one.(¶½ñÒşÿÿÿÿ
+@
+java:S14810"*Remove this unused "outer" local variable.(ÜÛĞ­
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ŠîˆĞúÿÿÿÿ8í¡§ÿÁ0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(©»®‹şÿÿÿÿ8î¡§ÿÁ0
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ÂşÊ8î¡§ÿÁ0
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(´ô¸§8ï¡§ÿÁ0
+{
+java:S1171T"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ï¡§ÿÁ0
+?
+java:S1128")Remove this unused import 'interfaces.A'.(¸½•›
+8
+java:S3398"#Move this method into "InnerClass".(Îäf

@@ -1,0 +1,21 @@
+
+W
+java:S1854m";Remove this useless assignment to local variable "collect".(õÛÃ:8ø®¦‰‚1
+Z
+java:S1854i"8Remove this useless assignment to local variable "list".(…ÂÚ®üÿÿÿÿ8ù®¦‰‚1
+V
+java:S1854a"9Remove this useless assignment to local variable "count".(ÒÑ¯·8ù®¦‰‚1
+G
+java:S1481a"*Remove this unused "count" local variable.(ÒÑ¯·8þ†÷ÒÂ0
+o
+java:S6204g"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8û®¦‰‚1
+o
+java:S6204k"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8û®¦‰‚1
+D
+java:S1481i")Remove this unused "list" local variable.(…ÂÚ®üÿÿÿÿ
+A
+java:S1481m",Remove this unused "collect" local variable.(õÛÃ:
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8Åå’þÂ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Æå’þÂ0
