@@ -17,10 +17,6 @@ _
 /src/concurrency/thread/ThreadCounterSample.java,9/d/9da4a3d249844d1bb65a563b4a39381b854ae30d
 L
 src/classes/SimplePoint.java,9/8/9834f66ffc766bed0665bd576e16a19e43952efd
-L
-src/algorithm/MatchType.java,0/d/0d1da2c7f6734d6eedb32548da8e4ffe33249182
-W
-'src/algorithm/CombinationGenerator.java,d/7/d72d9233b52738dc457683fe3d0bf74151acae6f
 U
 %src/threadpool/MultithreadClient.java,b/7/b7fa5fbe8e0aa44015e84cb3acc204b2c7edd52e
 N

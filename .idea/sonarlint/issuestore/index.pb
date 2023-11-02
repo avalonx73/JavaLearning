@@ -9,8 +9,6 @@ R
 "src/inheritance/AbstractClass.java,9/0/907f3d290942cb033e854a695eb2cb61100aa661
 M
 src/inheritance/SubClass.java,2/4/24bb095467f61e589829348e208f356451d78718
-I
-src/inheritance/Main.java,8/a/8acc7b9fe1b906a2e6d5278bd9493676055011dc
 J
 src/thread/ThreadTest.java,3/f/3f3558a66fc2d7b738c738be93d82a4ebe0e081f
 E
@@ -65,10 +63,6 @@ H
 src/threadpool/Card.java,e/c/ec3163703b3661b80d52232e9712be5da2ccf58d
 L
 src/classes/SimplePoint.java,9/8/9834f66ffc766bed0665bd576e16a19e43952efd
-L
-src/algorithm/MatchType.java,0/d/0d1da2c7f6734d6eedb32548da8e4ffe33249182
-W
-'src/algorithm/CombinationGenerator.java,d/7/d72d9233b52738dc457683fe3d0bf74151acae6f
 U
 %src/threadpool/MultithreadClient.java,b/7/b7fa5fbe8e0aa44015e84cb3acc204b2c7edd52e
 N
